@@ -1,0 +1,15 @@
+C:\Users\User\Documents\shahnaz\Managertask\bin\Debug\net6.0\Managertask.exe
+C:\Users\User\Documents\shahnaz\Managertask\bin\Debug\net6.0\Managertask.deps.json
+C:\Users\User\Documents\shahnaz\Managertask\bin\Debug\net6.0\Managertask.runtimeconfig.json
+C:\Users\User\Documents\shahnaz\Managertask\bin\Debug\net6.0\Managertask.dll
+C:\Users\User\Documents\shahnaz\Managertask\bin\Debug\net6.0\Managertask.pdb
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.csproj.AssemblyReference.cache
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.AssemblyInfoInputs.cache
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.AssemblyInfo.cs
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.dll
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\refint\Managertask.dll
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.pdb
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\Managertask.genruntimeconfig.cache
+C:\Users\User\Documents\shahnaz\Managertask\obj\Debug\net6.0\ref\Managertask.dll
